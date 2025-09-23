@@ -24,22 +24,16 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="520" height="300"/>
+</div>
+
 <!-- <div align="center">
-  <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="420" height="200"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/>
-</div> -->
+</div>  -->
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ItsYashAnkush&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="520" height="300" alt="streak graph"  />
-</div>
-
-###
 
 
 ## 🏆 GitHub Trophies
