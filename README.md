@@ -24,23 +24,27 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="420" height="200"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/>
+</div> -->
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="520" height="300" alt="streak graph"  />
 </div>
 
-
+###
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ItsYashAnkush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ItsYashAnkush&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -50,4 +54,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture> 
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
+
+###
