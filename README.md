@@ -25,17 +25,13 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="350" height="250"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="350" height="250"/>
-  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/> -->
+  <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="380" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook" width="380" height="250"/>
 </div>
 
+
 <div align="center">
-  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&langs_count=10" width="420" height="200"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook" width="420" height="200"/>
-
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="400" height="250"/>
 </div>   
 
 ## 🏆 GitHub Trophies
