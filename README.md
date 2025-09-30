@@ -25,18 +25,23 @@
 
 # 📊 GitHub Stats:
 
+
 <div align="center">
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" height="200"/> |
+| <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" width="420" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" width="420" height="200"/> |
 
+</div>
 
-<!-- <div align="center"> -->
-  | GitHub Strike |
-  |---------------|
- | <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="450" height="300"/> |
-<!-- </div>    -->
+<div align="center">
+
+| GitHub Streak |
+|---------------|
+| <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="450" height="300"/> |
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ItsYashAnkush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
