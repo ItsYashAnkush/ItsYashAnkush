@@ -25,14 +25,18 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="420" height="200"/> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="520" height="300"/>
+  <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" width="500" height="250"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false" width="500" height="300"/>
+  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/> -->
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/>
-</div>  -->
+<div align="center">
+  <!-- <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api/top-langs/?username=ItsYashAnkush&count_private=true&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" height="200"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&langs_count=10" width="420" height="200"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook" width="420" height="200"/>
 
+
+</div>   
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ItsYashAnkush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
