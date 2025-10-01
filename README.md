@@ -30,7 +30,7 @@
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" width="420" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&layout=compact&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" width="420" height="200"/> |
+| <img src="https://github-readme-stats-zeta-rose-46.vercel.app/api?username=ItsYashAnkush&count_private=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=true" width="420" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsYashAnkush&theme=github_dark_dimmed&include_all_commits=true&layout=compact&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" width="420" height="200"/> |
 
 </div>
 
