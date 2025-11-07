@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yash Ankush</h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ItsYashAnkush&label=Profile%20views&color=0e75b6&style=flat" alt="ItsYashAnkush" /> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsYashAnkush&label=Profile%20views&color=0e75b6&style=flat" alt="ItsYashAnkush" />
 </p>
-# 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5ZTZ3MzU0Y202dmx0enlkdnh5ZHFkczdkNHhiZWszeDBndW1rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"><br/>
-- 🔭 I’m currently working on **Machine Learning Project**  
-- 👯 I’m looking to collaborate on **cool coding projects, building apps, and exploring new tech ideas**  
-- 🌱 I’m currently learning **Spring boot**  
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5ZTZ3MzU0Y202dmx0enlkdnh5ZHFkczdkNHhiZWszeDBndW1rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
+
+- 🔭 I’m currently working on **Machine Learning Projects**  
+- 👯 I’m looking to collaborate on **cool coding projects, app development, and exploring new tech ideas**  
+- 🌱 I’m currently learning **Spring Boot**  
 - 💬 Ask me about **Android, Java**  
 - ⚡ Fun fact: **Why do Java developers wear glasses? Because they don’t C# 🤓**  
 
